@@ -166,3 +166,11 @@ conda install numpy pandas matplotlib
 - Virtual environments provide **dependency isolation**, **reproducibility**, and **project organization**.
 - Use **venv** for lightweight environments and **Conda** for complex dependency management.
 - Always activate your environment and ensure the correct interpreter is selected in VS Code or Jupyter.
+
+---
+
+## **Further Reading**
+- https://code.visualstudio.com/docs/python/environments
+- https://github.com/microsoft/vscode-jupyter/wiki/Jupyter-Kernels-and-the-Jupyter-Extension
+- https://docs.anaconda.com/anaconda/install/windows/
+- https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html
