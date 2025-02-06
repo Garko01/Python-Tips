@@ -67,6 +67,7 @@ You can use either **venv** (default) or **Conda** depending on your project nee
 1. Create a Conda environment:
    ```bash
    conda create --name my_project_env python
+   - Installing an older python version e.g., python=3.11 may help resolve potential package conflict.
    ```
 2. Activate the environment:
    ```bash
